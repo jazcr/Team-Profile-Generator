@@ -1,5 +1,5 @@
 
-# :printer: README Generator
+# :printer: Team Profile Generator
 
 [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
