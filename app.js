@@ -55,7 +55,7 @@ function addTeamMember() {
 
         inquirer.prompt([
             {
-                message: `Enter team member's ${roleInfo}`,
+                message: `Enter team member's ${roleInfo}: `,
                 name: `roleInfo`,
             },
             {
