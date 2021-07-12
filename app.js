@@ -105,7 +105,7 @@ function initHTML() {
             <span class="navbar-brand mb-0 h1 w-100 text-center">Team Profile</span>
         </nav>
         <div class="card-group">`;
-    fs.writeFile("./output/team.html", html, function (err) {
+    fs.writeFile("./output/teamMembers.html", html, function (err) {
         if (err) {
             console.log(err);
         }
@@ -164,7 +164,7 @@ function addHTML(member) {
         </div>`
         }
         console.log("adding team member(s)");
-        fs.appendFile("./output/team.html", data, function (err) {
+        fs.appendFile("./output/teamMembers.html", data, function (err) {
             if (err) {
                 return reject(err);
             };
