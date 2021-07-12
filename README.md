@@ -8,7 +8,7 @@
 <br>  
 <br> 
 
-#### [Link to Walkthrough Video]
+#### [Link to Walkthrough Video](https://youtu.be/otpB3Mk09dM)
 <br>
 
 ## Table of Contents: 
