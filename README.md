@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
-![Screenshot of HTML page](./assets/SS.jpg)
+![Screenshot of HTML page](https://github.com/jazcr/Team-Profile-Generator/blob/3f343f5bc18a663df2db3c229943035ad43bab3f/assets/SS.JPG)
 
 <br>  
 <br> 
